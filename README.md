@@ -1,5 +1,5 @@
 ### Hi there 👋
-This is my README.md
+My name is Hemax Patel. I am currently pursuing my Btech degree in Computer Engineering. And i want to explore all domains of Computer Engineering.
 
 <!--
 **hemaxpatel/hemaxpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

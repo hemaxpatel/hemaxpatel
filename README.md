@@ -1,5 +1,7 @@
 ### Hi there 👋
-My name is Hemax Patel. I am currently pursuing my Btech degree in Computer Engineering. And i want to explore all domains of Computer Engineering.
+My name is Hemax Patel. I am currently pursuing my Btech degree in Computer Engineering. And I want to explore all domains of Computer Engineering. Currently focusing on Web Dev.
+
+- 🌱 I’m currently learning Next.JS
 
 <!--
 **hemaxpatel/hemaxpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -7,7 +9,7 @@ My name is Hemax Patel. I am currently pursuing my Btech degree in Computer Engi
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning Next.JS
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...

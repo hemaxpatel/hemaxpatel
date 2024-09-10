@@ -1,7 +1,8 @@
 ### Hi there 👋
-My name is Hemax Patel. I am currently pursuing my Btech degree in Computer Engineering. And I want to explore all domains of Computer Engineering. Currently focusing on Web Dev.
-
+- 👋 I’m Hemax Patel
+- 👀 I’m interested in Web Development, particularly in MERN stack
 - 🌱 I’m currently learning Next.JS
+- 📫 How to reach me: through my email id or linkedIn profile.
 
 <!--
 **hemaxpatel/hemaxpatel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

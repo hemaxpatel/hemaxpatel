@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, My name is Hemax Patel </h1>
+<h1 align="center">Hi 👋, I'm Hemax Patel </h1>
 <h3 align="center">Full Stack Web Developer with expertise in front-end as well as back-end development, experienced in leading cross-functional teams.</h3>
 
 - 🔭 I’m currently working on Personal-projects

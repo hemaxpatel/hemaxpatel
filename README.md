@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemaxpatel&label=Profile%20views&color=0e75b6&style=flat" alt="hemaxpatel" /> </p>
 
 - 🔭 I’m currently working on **Personal-projects**
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **Cloud**
 - 👯 I’m looking to collaborate on **Open source projects**
 - 📫 How to reach me: hemax.work@gmail.com
 

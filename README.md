@@ -11,7 +11,7 @@
 ## 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/hemax-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemax-patel" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/hemaxpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemaxpatel" height="30" width="40" /></a>
+<!-- <a href="https://www.leetcode.com/hemaxpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemaxpatel" height="30" width="40" /></a> -->
 <a href="https://www.hackerrank.com/profile/hemaxpatel" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2b8d532d-e8dc-405b-8e34-a4ada1684302" alt="@hemaxpatel" height="30" width="40" /></a>
 </p>
 

@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Hemax Patel </h1>
+<h1 align="center">Hello! <img src="https://github.com/masokky/masokky/blob/master/assets/Hi.gif" width="30px"><br> I'm Hemax Patel </h1>
 <h3 align="center">A Full Stack Developer and Problem Solver</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hemaxpatel&label=Profile%20views&color=0e75b6&style=flat" alt="hemaxpatel" /> </p>

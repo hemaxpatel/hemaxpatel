@@ -10,7 +10,7 @@
 
 ## 🌐 Connect with me:
 <p align="left">
-  <a href="https://hemax.vercel.app" target="blank"><img align="center" src="https://github.com/user-attachments/assets/5911caa1-040d-41ca-a2da-df7ce41344f0" alt="hemax.vercel.app" height="40" width="40" /></a>
+  <a href="https://hemax.vercel.app" target="blank"><img align="center" src="https://github.com/user-attachments/assets/eb7572e8-0947-4b14-a1f8-e11ed771acca" alt="hemax.vercel.app" height="30" width="30" /></a>
   <a href="https://linkedin.com/in/hemax-patel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="hemax-patel" height="30" width="40" /></a>
   <a href="https://www.leetcode.com/hemaxpatel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hemaxpatel" height="30" width="40" /></a>
   <a href="https://www.hackerrank.com/profile/hemaxpatel" target="blank"><img align="center" src="https://github.com/user-attachments/assets/2b8d532d-e8dc-405b-8e34-a4ada1684302" alt="@hemaxpatel" height="30" width="40" /></a>

@@ -19,23 +19,26 @@
 
 ## 👨‍💻 Tech Stack
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
+  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/22a3c21e-5a8b-4ad2-ad46-a41fc658129e" alt="html5" width="40" height="40"/> </a> 
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/fc5ad88d-575f-4475-b4ae-a53aeb67d790" alt="css3" width="40" height="40"/> </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/9905571f-fb57-462d-8bc1-c21bf9d43575" alt="typescript" width="40" height="40"/> </a> 
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/5f4d9f8a-96c5-4869-b1df-e21bfa1d10b9" alt="next.js" width="40" height="40"/> </a> 
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/fdbb51ed-bcb5-40ef-826c-b7500f9e9509" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/0a95a8c6-6890-41c2-bc34-d771cd12b0f4" alt="next.js" width="40" height="40"/> </a> 
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/6316c525-5d6e-45c9-821a-3a2ac9d760a4" alt="bootstrap" width="40" height="40" /> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>  
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/e60c075c-adf7-49b8-a05c-9f8fb9cf5273" alt="express" width="40" height="40"/> </a> 
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/d30cc5b6-f6c8-4e29-8a25-2d949761b20e" alt="nodejs" width="40" height="40"/> </a>
+  <a href="https://expressjs.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/dee7387e-f5ff-4e2d-8e44-3e1a7ab9ba71" alt="express" width="40" height="40"/> </a> 
   <a href="https://www.postman.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/ea07c227-449b-410d-9c10-ab397a2aa258" alt="postman" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a>  
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/1c062642-be69-4669-84e0-88cb4902feb3" alt="mongodb" width="40" height="40"/> </a>
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/2a770b01-998d-49fa-8464-a7e4e2c14aac" alt="postgresql" width="40" height="40"/> </a>
+  <a href="https://www.prisma.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c083becc-fb95-45bb-a4d8-ae9031bffd16" alt="prisma"  width="40" height="40"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c98eab42-4276-4e7d-a291-7ee6c8c7456b" alt="C#" width="40" height="40"/> </a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/933e6551-b6b5-47db-af6c-94f0767f50b8" alt="dotnet"  width="40" height="40"/></a>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
   <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/9addfbc7-ad2b-443b-94ac-07787435ba28" alt="c" width="40" height="40"/> </a> 
   <a href="https://cplusplus.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/> </a>
-  <a href="https://dotnet.microsoft.com/en-us/languages/csharp" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/c98eab42-4276-4e7d-a291-7ee6c8c7456b" alt="C#" width="40" height="40"/> </a>
   <a href="https://www.java.com/en/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/fe1dc8bb-5b67-45bc-bbe8-ecc21bc57136" alt="java" width="40" height="40"/> </a>
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/a0287f05-96f4-4210-bf39-ae321be736c2" alt="python" width="40" height="40"/> </a> 
   <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/user-attachments/assets/f2f33d57-90e8-42f0-9969-b8357e6dfac1" alt="AWS" width="50" height="50"/> </a> 

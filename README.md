@@ -1,13 +1,22 @@
+<!-- profile view count -->
+<img align="right" src="https://komarev.com/ghpvc/?username=hemaxpatel" alt="hemaxpatel">
+
+<!-- introduction -->
 <h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi+There!+👋;+I'm+Hemax+Patel!;&center=true&font=Righteous&size=35">
+  </a>
+</h1>
+
+<!-- <h1 align="center">
 Hello! <img src="https://github.com/masokky/masokky/blob/master/assets/Hi.gif" width="30px"><br>
 I'm Hemax Patel
-</h1>
+</h1> -->
 
 <h3 align="center">
 A Full Stack Developer and Problem Solver
-</h3>
+</h3><br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hemaxpatel&label=Profile%20views&color=0e75b6&style=flat" alt="hemaxpatel" /> </p>
 
 - 🌱 I’m currently learning **.NET** & working on **Personal-projects**
 - 👯 I’m looking to collaborate on **Open source projects**
